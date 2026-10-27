@@ -1,0 +1,23 @@
+[
+  {
+    "id": "L97",
+    "cluster": "c27 确定性分工",
+    "name": "可确定化检测",
+    "dir": "L97-determinizable-detect",
+    "loc": 43
+  },
+  {
+    "id": "L98",
+    "cluster": "c27 确定性分工",
+    "name": "分工账本",
+    "dir": "L98-division-ledger",
+    "loc": 55
+  },
+  {
+    "id": "L99",
+    "cluster": "c27 确定性分工",
+    "name": "确定性复验",
+    "dir": "L99-determinism-recheck",
+    "loc": 50
+  }
+]
